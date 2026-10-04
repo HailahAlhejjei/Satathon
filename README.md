@@ -31,10 +31,8 @@ Taken from the team's competition sheet ([`data/signal-log.xlsx`](data/signal-lo
 
 | Source | Mode | Frequency | Time | Level | Decoded content | Notes |
 |---|---|---|---|---|---|---|
-| CO-65 | CW | 14.014.00 | 03:43 | 5 | - | Could not decode |
 | HF | FT8 | 14.047.00 | 03:32 | 7 | RJ3F | Received at −17 |
 | AO-07 | CW | 14.024.00 | 03:56 | 5 | XQJSK | |
-| AO-73 | CW | 14.008.00 | 03:56 | 3 | - | Could not decode |
 | - | Voice | 21.260.00 | 04:52 | 9 | YB5DDE | Call sign |
 | - | Voice | 14.270.00 | 05:38 | 9 | IK4GNI | Call sign |
 
