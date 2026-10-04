@@ -70,7 +70,7 @@ The full team submission video (*Digital Apollo Sathon 2026 Submission*) is ~800
 
 ## Team
 
-**Digital Apollo**: Marwa Sabai · Dana Al-Anazi · Hailah Al-Hejji
+**Digital Apollo**: Marwah Sabai · Dana Al-Anazi · Hailah Alhejjei
 
 ---
 
