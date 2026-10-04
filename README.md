@@ -4,7 +4,7 @@ Hands-on satellite and HF radio signal reception at the Satathon 2026 competitio
 
 ![Satellite tracking station](media/station/satellite-tracking-station.jpeg)
 
-[English](#english) · [العربية](#arabic) · [▶ Demo video](https://youtu.be/BvtABBpzqYA)
+[English](#english) · [العربية](#arabic) · [▶ Submission video](https://youtu.be/BvtABBpzqYA)
 
 ---
 
@@ -64,7 +64,7 @@ The sheet also records an antenna check (SWR test).
 
 More images: [`media/`](media/)
 
-## Demo
+## Submission Video
 
 The team's submission video, *Digital Apollo Sathon 2026 Submission*:
 
