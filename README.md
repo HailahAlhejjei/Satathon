@@ -4,7 +4,7 @@ Hands-on satellite and HF radio signal reception at the Satathon 2026 competitio
 
 ![Satellite tracking station](media/station/satellite-tracking-station.jpeg)
 
-[English](#english) · [العربية](#arabic)
+[English](#english) · [العربية](#arabic) · [▶ Demo video](https://youtu.be/BvtABBpzqYA)
 
 ---
 
@@ -66,7 +66,11 @@ More images: [`media/`](media/)
 
 ## Demo
 
-The full team submission video (*Digital Apollo Sathon 2026 Submission*) is ~800 MB, too large for GitHub. ▶ **[Watch on Google Drive](https://drive.google.com/file/d/16Xb40qC_47T5XWn-I2eeNaP0EcNeGGmh/view)**
+The team's submission video, *Digital Apollo Sathon 2026 Submission*:
+
+[![Watch the submission video on YouTube](https://img.youtube.com/vi/BvtABBpzqYA/hqdefault.jpg)](https://youtu.be/BvtABBpzqYA)
+
+▶ **[Watch on YouTube](https://youtu.be/BvtABBpzqYA)** · [Google Drive (full quality)](https://drive.google.com/file/d/16Xb40qC_47T5XWn-I2eeNaP0EcNeGGmh/view)
 
 ## Team
 
