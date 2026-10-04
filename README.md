@@ -68,7 +68,7 @@ The team's submission video, *Digital Apollo Sathon 2026 Submission*:
 
 [![Watch the submission video on YouTube](https://img.youtube.com/vi/BvtABBpzqYA/hqdefault.jpg)](https://youtu.be/BvtABBpzqYA)
 
-▶ **[Watch on YouTube](https://youtu.be/BvtABBpzqYA)** · [Google Drive (full quality)](https://drive.google.com/file/d/16Xb40qC_47T5XWn-I2eeNaP0EcNeGGmh/view)
+▶ **[Watch on YouTube](https://youtu.be/BvtABBpzqYA)**
 
 ## Team
 
